@@ -1,0 +1,6 @@
+Title,Claimant Name,Claimant Email,Claim Type,Date of Incident,Claim Amount (AUD),Injury or Liability,Description,Priority,Recommended Action,Triage Notes,Status
+CLM-1043,Daniel Foster,daniel.foster@example.com,Motor,2026-05-28,14500,Yes,Rear-ended at an intersection; other driver injured and ambulance attended. Vehicle not driveable.,,,,New
+CLM-1044,Mia Castellano,mia.castellano@example.com,Travel,2026-06-01,320,No,Flight delayed 7 hours; claiming meals and overnight accommodation with receipts attached.,,,,New
+CLM-1045,Aaron Whitby,aaron.whitby@example.com,Home,2026-05-22,4200,No,Burst pipe under kitchen sink caused water damage to cabinetry and flooring.,,,,New
+CLM-1046,Sofia Nguyen,sofia.nguyen@example.com,Health,2026-05-30,2600,No,Emergency dental treatment after a fall; claiming the gap not covered by Medicare.,,,,New
+CLM-1047,Liam Brewster,liam.brewster@example.com,Motor,2026-06-03,9800,No,Single-vehicle scrape in a car park; policy started nine days ago and description is vague.,,,,New
