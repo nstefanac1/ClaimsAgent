@@ -96,6 +96,8 @@ At the completion of this exercise you will have a working Claims Agent solution
 - Identifying potential fraud indicators
 - Coordinating specialist agents to deliver a unified recommendation
 
+<img width="1334" height="267" alt="image" src="https://github.com/user-attachments/assets/874ef4f6-04f1-4d77-ac03-a96042d2fc3f" />
+
 ---
 
 ## Disclaimer
