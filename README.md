@@ -58,8 +58,10 @@ The Claims Agent combines the output of both specialist agents into a single rec
 
 | File | Purpose |
 | --- | --- |
+| Claims\-Triage\-Agent\-Instructions.docx | Initial instructions used when creating the Claims Triage Assistant |
 | Claims\-Triage\-Playbook.docx | Knowledge source used by the Claims Triage Assistant |
 | Claims\-List.csv | Sample claims data used during the demonstration |
+| Claims\-Triage\-Agent\-Instructions\-Updated.docx | Updated instructions used for the Claims Triage Assistant once Tools and Triggers have been added |
 
 ---
 
