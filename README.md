@@ -62,6 +62,8 @@ The Claims Agent combines the output of both specialist agents into a single rec
 | Claims\-Triage\-Playbook.docx | Knowledge source used by the Claims Triage Assistant |
 | Claims\-List.csv | Sample claims data used during the demonstration |
 | Claims\-Triage\-Agent\-Instructions\-Updated.docx | Updated instructions used for the Claims Triage Assistant once Tools and Triggers have been added |
+| Preferred\-Supplier\-Agent\-Instructions.docx | Instructions used when creating the Preferred Supplier Agent |
+| Preferred\-Supplier\-Agent\-Supplier\-List.docx | Knowledge source used by Preferred Supplier Ageent |
 
 ---
 
