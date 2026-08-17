@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the sample files used to demonstrate how to build a multi\-agent Claims solution in Microsoft Copilot Studio.
+This repository contains the sample files used to demonstrate how to build a multi\-agent Claims solution in Microsoft Copilot Studio as demonstrated in the Agent Maker course which you can register for here: https://aka.ms/FounderzRegister 
 
 The scenario demonstrates how an orchestration agent can coordinate specialist agents to assess insurance claims, recommend next actions, and automate triage activities using plain\-English instructions rather than code.
 
